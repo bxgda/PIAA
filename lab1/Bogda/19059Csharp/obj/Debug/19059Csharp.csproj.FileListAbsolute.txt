@@ -1,0 +1,7 @@
+D:\faks\5. semestar\PIA\19059Csharp\19059Csharp\bin\Debug\19059Csharp.exe.config
+D:\faks\5. semestar\PIA\19059Csharp\19059Csharp\bin\Debug\19059Csharp.exe
+D:\faks\5. semestar\PIA\19059Csharp\19059Csharp\bin\Debug\19059Csharp.pdb
+D:\faks\5. semestar\PIA\19059Csharp\19059Csharp\obj\Debug\19059Csharp.csproj.AssemblyReference.cache
+D:\faks\5. semestar\PIA\19059Csharp\19059Csharp\obj\Debug\19059Csharp.csproj.CoreCompileInputs.cache
+D:\faks\5. semestar\PIA\19059Csharp\19059Csharp\obj\Debug\19059Csharp.exe
+D:\faks\5. semestar\PIA\19059Csharp\19059Csharp\obj\Debug\19059Csharp.pdb

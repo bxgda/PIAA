@@ -1,0 +1,969 @@
+##### Pokrenut KMP algoritam za fajl ascii100.txt
+
+Duzinu teksta: 523, duzinu podstringa: 5
+podstring: green
+
+nadjeno poklapanje na indeksu 303
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.2776 ms
+
+##### Pokrenut KMP algoritam za fajl ascii100.txt
+
+Duzinu teksta: 523, duzinu podstringa: 10
+podstring: tubeshaped
+
+nadjeno poklapanje na indeksu 386
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.009 ms
+
+##### Pokrenut KMP algoritam za fajl ascii100.txt
+
+Duzinu teksta: 523, duzinu podstringa: 20
+podstring: Not a nasty, dirty, 
+
+nadjeno poklapanje na indeksu 46
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.0075 ms
+
+##### Pokrenut KMP algoritam za fajl ascii100.txt
+
+Duzinu teksta: 523, duzinu podstringa: 50
+podstring: Not a nasty, dirty, wet hole, filled with the ends
+
+nadjeno poklapanje na indeksu 46
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.015 ms
+
+##### Pokrenut KMP algoritam za fajl ascii1k.txt
+
+Duzinu teksta: 5587, duzinu podstringa: 5
+podstring: green
+
+nadjeno poklapanje na indeksu 303
+nadjeno poklapanje na indeksu 2530
+nadjeno poklapanje na indeksu 4531
+
+nadjeno je 3 poklapanja
+vreme izvrsenja: 0.0524 ms
+
+##### Pokrenut KMP algoritam za fajl ascii1k.txt
+
+Duzinu teksta: 5587, duzinu podstringa: 10
+podstring: tubeshaped
+
+nadjeno poklapanje na indeksu 386
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.0573 ms
+
+##### Pokrenut KMP algoritam za fajl ascii1k.txt
+
+Duzinu teksta: 5587, duzinu podstringa: 20
+podstring: Not a nasty, dirty, 
+
+nadjeno poklapanje na indeksu 46
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.0488 ms
+
+##### Pokrenut KMP algoritam za fajl ascii1k.txt
+
+Duzinu teksta: 5587, duzinu podstringa: 50
+podstring: Not a nasty, dirty, wet hole, filled with the ends
+
+nadjeno poklapanje na indeksu 46
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.0513 ms
+
+##### Pokrenut KMP algoritam za fajl ascii10k.txt
+
+Duzinu teksta: 53639, duzinu podstringa: 6
+podstring: Thorin
+
+nadjeno poklapanje na indeksu 3714
+nadjeno poklapanje na indeksu 22097
+nadjeno poklapanje na indeksu 22303
+nadjeno poklapanje na indeksu 22374
+nadjeno poklapanje na indeksu 22555
+nadjeno poklapanje na indeksu 23068
+nadjeno poklapanje na indeksu 24755
+nadjeno poklapanje na indeksu 24907
+nadjeno poklapanje na indeksu 26082
+nadjeno poklapanje na indeksu 26478
+nadjeno poklapanje na indeksu 26884
+nadjeno poklapanje na indeksu 27304
+nadjeno poklapanje na indeksu 27369
+nadjeno poklapanje na indeksu 27450
+nadjeno poklapanje na indeksu 30878
+nadjeno poklapanje na indeksu 31293
+nadjeno poklapanje na indeksu 31324
+nadjeno poklapanje na indeksu 31831
+nadjeno poklapanje na indeksu 32421
+nadjeno poklapanje na indeksu 37667
+nadjeno poklapanje na indeksu 37809
+nadjeno poklapanje na indeksu 38488
+nadjeno poklapanje na indeksu 39769
+nadjeno poklapanje na indeksu 39914
+nadjeno poklapanje na indeksu 40021
+nadjeno poklapanje na indeksu 40514
+nadjeno poklapanje na indeksu 41511
+nadjeno poklapanje na indeksu 41935
+nadjeno poklapanje na indeksu 42548
+nadjeno poklapanje na indeksu 47006
+nadjeno poklapanje na indeksu 47604
+nadjeno poklapanje na indeksu 47769
+nadjeno poklapanje na indeksu 48153
+nadjeno poklapanje na indeksu 48188
+nadjeno poklapanje na indeksu 48731
+nadjeno poklapanje na indeksu 49108
+nadjeno poklapanje na indeksu 50155
+nadjeno poklapanje na indeksu 51023
+nadjeno poklapanje na indeksu 53336
+
+nadjeno je 39 poklapanja
+vreme izvrsenja: 0.4637 ms
+
+##### Pokrenut KMP algoritam za fajl ascii10k.txt
+
+Duzinu teksta: 53639, duzinu podstringa: 10
+podstring: determined
+
+nadjeno poklapanje na indeksu 41763
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.4797 ms
+
+##### Pokrenut KMP algoritam za fajl ascii10k.txt
+
+Duzinu teksta: 53639, duzinu podstringa: 20
+podstring: burglary—especially 
+
+nadjeno poklapanje na indeksu 41294
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.4498 ms
+
+##### Pokrenut KMP algoritam za fajl ascii10k.txt
+
+Duzinu teksta: 53639, duzinu podstringa: 50
+podstring: This news alters them much for the better. So far 
+
+nadjeno poklapanje na indeksu 40153
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.5401 ms
+
+##### Pokrenut KMP algoritam za fajl ascii100k.txt
+
+Duzinu teksta: 531201, duzinu podstringa: 5
+podstring: Bilbo
+
+nadjeno poklapanje na indeksu 211
+nadjeno poklapanje na indeksu 567
+nadjeno poklapanje na indeksu 664
+nadjeno poklapanje na indeksu 8200
+nadjeno poklapanje na indeksu 8972
+nadjeno poklapanje na indeksu 9218
+nadjeno poklapanje na indeksu 9484
+nadjeno poklapanje na indeksu 9870
+nadjeno poklapanje na indeksu 10661
+nadjeno poklapanje na indeksu 10884
+nadjeno poklapanje na indeksu 11296
+nadjeno poklapanje na indeksu 11501
+nadjeno poklapanje na indeksu 12472
+nadjeno poklapanje na indeksu 13002
+nadjeno poklapanje na indeksu 15749
+nadjeno poklapanje na indeksu 16695
+nadjeno poklapanje na indeksu 17793
+nadjeno poklapanje na indeksu 18430
+nadjeno poklapanje na indeksu 18805
+nadjeno poklapanje na indeksu 19203
+nadjeno poklapanje na indeksu 19441
+nadjeno poklapanje na indeksu 21449
+nadjeno poklapanje na indeksu 21961
+nadjeno poklapanje na indeksu 22448
+nadjeno poklapanje na indeksu 24304
+nadjeno poklapanje na indeksu 24601
+nadjeno poklapanje na indeksu 25394
+nadjeno poklapanje na indeksu 25756
+nadjeno poklapanje na indeksu 26679
+nadjeno poklapanje na indeksu 27521
+nadjeno poklapanje na indeksu 31000
+nadjeno poklapanje na indeksu 31142
+nadjeno poklapanje na indeksu 31666
+nadjeno poklapanje na indeksu 32660
+nadjeno poklapanje na indeksu 35215
+nadjeno poklapanje na indeksu 36943
+nadjeno poklapanje na indeksu 37060
+nadjeno poklapanje na indeksu 37446
+nadjeno poklapanje na indeksu 39004
+nadjeno poklapanje na indeksu 41385
+nadjeno poklapanje na indeksu 41620
+nadjeno poklapanje na indeksu 48200
+nadjeno poklapanje na indeksu 49492
+nadjeno poklapanje na indeksu 50511
+nadjeno poklapanje na indeksu 51220
+nadjeno poklapanje na indeksu 51393
+nadjeno poklapanje na indeksu 51720
+nadjeno poklapanje na indeksu 52120
+nadjeno poklapanje na indeksu 52470
+nadjeno poklapanje na indeksu 53255
+nadjeno poklapanje na indeksu 53366
+nadjeno poklapanje na indeksu 54157
+nadjeno poklapanje na indeksu 54212
+nadjeno poklapanje na indeksu 54287
+nadjeno poklapanje na indeksu 55122
+nadjeno poklapanje na indeksu 55201
+nadjeno poklapanje na indeksu 55725
+nadjeno poklapanje na indeksu 56172
+nadjeno poklapanje na indeksu 56395
+nadjeno poklapanje na indeksu 56756
+nadjeno poklapanje na indeksu 57393
+nadjeno poklapanje na indeksu 57763
+nadjeno poklapanje na indeksu 60007
+nadjeno poklapanje na indeksu 61829
+nadjeno poklapanje na indeksu 62163
+nadjeno poklapanje na indeksu 62388
+nadjeno poklapanje na indeksu 62631
+nadjeno poklapanje na indeksu 63176
+nadjeno poklapanje na indeksu 64352
+nadjeno poklapanje na indeksu 65077
+nadjeno poklapanje na indeksu 65614
+nadjeno poklapanje na indeksu 65737
+nadjeno poklapanje na indeksu 66010
+nadjeno poklapanje na indeksu 66197
+nadjeno poklapanje na indeksu 66239
+nadjeno poklapanje na indeksu 67022
+nadjeno poklapanje na indeksu 67237
+nadjeno poklapanje na indeksu 68075
+nadjeno poklapanje na indeksu 68579
+nadjeno poklapanje na indeksu 68935
+nadjeno poklapanje na indeksu 69336
+nadjeno poklapanje na indeksu 70603
+nadjeno poklapanje na indeksu 70962
+nadjeno poklapanje na indeksu 71721
+nadjeno poklapanje na indeksu 74559
+nadjeno poklapanje na indeksu 74605
+nadjeno poklapanje na indeksu 75006
+nadjeno poklapanje na indeksu 75815
+nadjeno poklapanje na indeksu 76868
+nadjeno poklapanje na indeksu 78682
+nadjeno poklapanje na indeksu 80230
+nadjeno poklapanje na indeksu 80667
+nadjeno poklapanje na indeksu 82881
+nadjeno poklapanje na indeksu 83505
+nadjeno poklapanje na indeksu 83964
+nadjeno poklapanje na indeksu 84586
+nadjeno poklapanje na indeksu 85596
+nadjeno poklapanje na indeksu 86036
+nadjeno poklapanje na indeksu 86870
+nadjeno poklapanje na indeksu 88176
+nadjeno poklapanje na indeksu 88861
+nadjeno poklapanje na indeksu 89642
+nadjeno poklapanje na indeksu 95320
+nadjeno poklapanje na indeksu 95979
+nadjeno poklapanje na indeksu 97880
+nadjeno poklapanje na indeksu 99461
+nadjeno poklapanje na indeksu 101079
+nadjeno poklapanje na indeksu 102238
+nadjeno poklapanje na indeksu 103223
+nadjeno poklapanje na indeksu 103343
+nadjeno poklapanje na indeksu 103611
+nadjeno poklapanje na indeksu 103787
+nadjeno poklapanje na indeksu 104274
+nadjeno poklapanje na indeksu 105655
+nadjeno poklapanje na indeksu 106546
+nadjeno poklapanje na indeksu 108228
+nadjeno poklapanje na indeksu 111528
+nadjeno poklapanje na indeksu 111813
+nadjeno poklapanje na indeksu 112173
+nadjeno poklapanje na indeksu 114025
+nadjeno poklapanje na indeksu 116094
+nadjeno poklapanje na indeksu 116388
+nadjeno poklapanje na indeksu 116607
+nadjeno poklapanje na indeksu 119599
+nadjeno poklapanje na indeksu 123959
+nadjeno poklapanje na indeksu 124023
+nadjeno poklapanje na indeksu 124081
+nadjeno poklapanje na indeksu 124196
+nadjeno poklapanje na indeksu 125093
+nadjeno poklapanje na indeksu 126085
+nadjeno poklapanje na indeksu 126466
+nadjeno poklapanje na indeksu 126754
+nadjeno poklapanje na indeksu 127337
+nadjeno poklapanje na indeksu 127927
+nadjeno poklapanje na indeksu 128725
+nadjeno poklapanje na indeksu 129255
+nadjeno poklapanje na indeksu 129480
+nadjeno poklapanje na indeksu 130087
+nadjeno poklapanje na indeksu 130344
+nadjeno poklapanje na indeksu 130567
+nadjeno poklapanje na indeksu 130783
+nadjeno poklapanje na indeksu 130882
+nadjeno poklapanje na indeksu 131034
+nadjeno poklapanje na indeksu 131275
+nadjeno poklapanje na indeksu 131882
+nadjeno poklapanje na indeksu 132309
+nadjeno poklapanje na indeksu 132516
+nadjeno poklapanje na indeksu 132779
+nadjeno poklapanje na indeksu 132990
+nadjeno poklapanje na indeksu 133225
+nadjeno poklapanje na indeksu 133691
+nadjeno poklapanje na indeksu 133950
+nadjeno poklapanje na indeksu 133995
+nadjeno poklapanje na indeksu 134389
+nadjeno poklapanje na indeksu 134489
+nadjeno poklapanje na indeksu 134724
+nadjeno poklapanje na indeksu 135023
+nadjeno poklapanje na indeksu 135597
+nadjeno poklapanje na indeksu 135659
+nadjeno poklapanje na indeksu 135971
+nadjeno poklapanje na indeksu 136210
+nadjeno poklapanje na indeksu 136595
+nadjeno poklapanje na indeksu 138481
+nadjeno poklapanje na indeksu 138553
+nadjeno poklapanje na indeksu 138930
+nadjeno poklapanje na indeksu 139059
+nadjeno poklapanje na indeksu 139224
+nadjeno poklapanje na indeksu 139404
+nadjeno poklapanje na indeksu 139715
+nadjeno poklapanje na indeksu 139882
+nadjeno poklapanje na indeksu 140115
+nadjeno poklapanje na indeksu 140390
+nadjeno poklapanje na indeksu 140586
+nadjeno poklapanje na indeksu 140748
+nadjeno poklapanje na indeksu 141027
+nadjeno poklapanje na indeksu 141913
+nadjeno poklapanje na indeksu 142121
+nadjeno poklapanje na indeksu 142689
+nadjeno poklapanje na indeksu 142914
+nadjeno poklapanje na indeksu 143310
+nadjeno poklapanje na indeksu 144918
+nadjeno poklapanje na indeksu 145444
+nadjeno poklapanje na indeksu 145525
+nadjeno poklapanje na indeksu 146411
+nadjeno poklapanje na indeksu 146447
+nadjeno poklapanje na indeksu 146620
+nadjeno poklapanje na indeksu 147106
+nadjeno poklapanje na indeksu 147187
+nadjeno poklapanje na indeksu 147663
+nadjeno poklapanje na indeksu 148305
+nadjeno poklapanje na indeksu 148736
+nadjeno poklapanje na indeksu 148983
+nadjeno poklapanje na indeksu 149414
+nadjeno poklapanje na indeksu 149678
+nadjeno poklapanje na indeksu 149958
+nadjeno poklapanje na indeksu 150288
+nadjeno poklapanje na indeksu 150814
+nadjeno poklapanje na indeksu 151484
+nadjeno poklapanje na indeksu 152265
+nadjeno poklapanje na indeksu 152801
+nadjeno poklapanje na indeksu 153265
+nadjeno poklapanje na indeksu 153454
+nadjeno poklapanje na indeksu 153520
+nadjeno poklapanje na indeksu 153759
+nadjeno poklapanje na indeksu 157534
+nadjeno poklapanje na indeksu 157914
+nadjeno poklapanje na indeksu 158203
+nadjeno poklapanje na indeksu 158675
+nadjeno poklapanje na indeksu 159073
+nadjeno poklapanje na indeksu 160107
+nadjeno poklapanje na indeksu 160358
+nadjeno poklapanje na indeksu 160572
+nadjeno poklapanje na indeksu 161224
+nadjeno poklapanje na indeksu 161915
+nadjeno poklapanje na indeksu 163663
+nadjeno poklapanje na indeksu 164052
+nadjeno poklapanje na indeksu 164227
+nadjeno poklapanje na indeksu 166203
+nadjeno poklapanje na indeksu 167170
+nadjeno poklapanje na indeksu 168267
+nadjeno poklapanje na indeksu 169961
+nadjeno poklapanje na indeksu 170599
+nadjeno poklapanje na indeksu 170773
+nadjeno poklapanje na indeksu 170964
+nadjeno poklapanje na indeksu 171827
+nadjeno poklapanje na indeksu 172183
+nadjeno poklapanje na indeksu 172512
+nadjeno poklapanje na indeksu 173291
+nadjeno poklapanje na indeksu 175953
+nadjeno poklapanje na indeksu 180143
+nadjeno poklapanje na indeksu 182840
+nadjeno poklapanje na indeksu 183022
+nadjeno poklapanje na indeksu 183386
+nadjeno poklapanje na indeksu 183586
+nadjeno poklapanje na indeksu 183759
+nadjeno poklapanje na indeksu 185326
+nadjeno poklapanje na indeksu 185911
+nadjeno poklapanje na indeksu 186227
+nadjeno poklapanje na indeksu 186581
+nadjeno poklapanje na indeksu 186989
+nadjeno poklapanje na indeksu 187210
+nadjeno poklapanje na indeksu 187933
+nadjeno poklapanje na indeksu 188331
+nadjeno poklapanje na indeksu 188726
+nadjeno poklapanje na indeksu 189260
+nadjeno poklapanje na indeksu 190094
+nadjeno poklapanje na indeksu 190480
+nadjeno poklapanje na indeksu 191874
+nadjeno poklapanje na indeksu 192862
+nadjeno poklapanje na indeksu 194669
+nadjeno poklapanje na indeksu 195353
+nadjeno poklapanje na indeksu 195827
+nadjeno poklapanje na indeksu 197479
+nadjeno poklapanje na indeksu 197716
+nadjeno poklapanje na indeksu 198256
+nadjeno poklapanje na indeksu 200699
+nadjeno poklapanje na indeksu 201094
+nadjeno poklapanje na indeksu 202913
+nadjeno poklapanje na indeksu 211814
+nadjeno poklapanje na indeksu 212428
+nadjeno poklapanje na indeksu 214089
+nadjeno poklapanje na indeksu 215436
+nadjeno poklapanje na indeksu 215738
+nadjeno poklapanje na indeksu 216389
+nadjeno poklapanje na indeksu 216835
+nadjeno poklapanje na indeksu 216943
+nadjeno poklapanje na indeksu 217299
+nadjeno poklapanje na indeksu 220147
+nadjeno poklapanje na indeksu 223103
+nadjeno poklapanje na indeksu 229211
+nadjeno poklapanje na indeksu 229570
+nadjeno poklapanje na indeksu 232235
+nadjeno poklapanje na indeksu 232695
+nadjeno poklapanje na indeksu 233185
+nadjeno poklapanje na indeksu 233330
+nadjeno poklapanje na indeksu 234311
+nadjeno poklapanje na indeksu 234959
+nadjeno poklapanje na indeksu 237285
+nadjeno poklapanje na indeksu 238775
+nadjeno poklapanje na indeksu 239033
+nadjeno poklapanje na indeksu 241309
+nadjeno poklapanje na indeksu 241515
+nadjeno poklapanje na indeksu 241998
+nadjeno poklapanje na indeksu 242793
+nadjeno poklapanje na indeksu 243134
+nadjeno poklapanje na indeksu 243278
+nadjeno poklapanje na indeksu 243532
+nadjeno poklapanje na indeksu 243993
+nadjeno poklapanje na indeksu 246069
+nadjeno poklapanje na indeksu 250871
+nadjeno poklapanje na indeksu 251907
+nadjeno poklapanje na indeksu 253080
+nadjeno poklapanje na indeksu 257511
+nadjeno poklapanje na indeksu 259710
+nadjeno poklapanje na indeksu 260362
+nadjeno poklapanje na indeksu 260488
+nadjeno poklapanje na indeksu 260905
+nadjeno poklapanje na indeksu 263070
+nadjeno poklapanje na indeksu 263348
+nadjeno poklapanje na indeksu 265119
+nadjeno poklapanje na indeksu 266197
+nadjeno poklapanje na indeksu 266897
+nadjeno poklapanje na indeksu 268546
+nadjeno poklapanje na indeksu 268871
+nadjeno poklapanje na indeksu 269375
+nadjeno poklapanje na indeksu 269631
+nadjeno poklapanje na indeksu 270377
+nadjeno poklapanje na indeksu 270798
+nadjeno poklapanje na indeksu 271057
+nadjeno poklapanje na indeksu 272453
+nadjeno poklapanje na indeksu 272826
+nadjeno poklapanje na indeksu 273725
+nadjeno poklapanje na indeksu 274597
+nadjeno poklapanje na indeksu 275232
+nadjeno poklapanje na indeksu 276484
+nadjeno poklapanje na indeksu 277323
+nadjeno poklapanje na indeksu 277835
+nadjeno poklapanje na indeksu 278344
+nadjeno poklapanje na indeksu 278617
+nadjeno poklapanje na indeksu 278754
+nadjeno poklapanje na indeksu 278997
+nadjeno poklapanje na indeksu 279535
+nadjeno poklapanje na indeksu 279998
+nadjeno poklapanje na indeksu 280274
+nadjeno poklapanje na indeksu 280720
+nadjeno poklapanje na indeksu 281355
+nadjeno poklapanje na indeksu 282579
+nadjeno poklapanje na indeksu 283272
+nadjeno poklapanje na indeksu 283436
+nadjeno poklapanje na indeksu 283781
+nadjeno poklapanje na indeksu 284198
+nadjeno poklapanje na indeksu 284204
+nadjeno poklapanje na indeksu 284210
+nadjeno poklapanje na indeksu 284924
+nadjeno poklapanje na indeksu 290145
+nadjeno poklapanje na indeksu 291035
+nadjeno poklapanje na indeksu 291437
+nadjeno poklapanje na indeksu 291576
+nadjeno poklapanje na indeksu 292271
+nadjeno poklapanje na indeksu 294683
+nadjeno poklapanje na indeksu 295263
+nadjeno poklapanje na indeksu 297656
+nadjeno poklapanje na indeksu 297895
+nadjeno poklapanje na indeksu 298865
+nadjeno poklapanje na indeksu 298990
+nadjeno poklapanje na indeksu 299535
+nadjeno poklapanje na indeksu 300803
+nadjeno poklapanje na indeksu 301838
+nadjeno poklapanje na indeksu 302173
+nadjeno poklapanje na indeksu 302644
+nadjeno poklapanje na indeksu 302960
+nadjeno poklapanje na indeksu 303588
+nadjeno poklapanje na indeksu 304152
+nadjeno poklapanje na indeksu 304686
+nadjeno poklapanje na indeksu 305188
+nadjeno poklapanje na indeksu 305437
+nadjeno poklapanje na indeksu 305911
+nadjeno poklapanje na indeksu 306281
+nadjeno poklapanje na indeksu 306865
+nadjeno poklapanje na indeksu 307486
+nadjeno poklapanje na indeksu 308238
+nadjeno poklapanje na indeksu 308624
+nadjeno poklapanje na indeksu 311473
+nadjeno poklapanje na indeksu 313635
+nadjeno poklapanje na indeksu 315086
+nadjeno poklapanje na indeksu 315902
+nadjeno poklapanje na indeksu 317783
+nadjeno poklapanje na indeksu 318929
+nadjeno poklapanje na indeksu 319503
+nadjeno poklapanje na indeksu 320947
+nadjeno poklapanje na indeksu 321479
+nadjeno poklapanje na indeksu 323282
+nadjeno poklapanje na indeksu 323660
+nadjeno poklapanje na indeksu 324404
+nadjeno poklapanje na indeksu 324673
+nadjeno poklapanje na indeksu 327529
+nadjeno poklapanje na indeksu 328187
+nadjeno poklapanje na indeksu 329894
+nadjeno poklapanje na indeksu 330541
+nadjeno poklapanje na indeksu 332150
+nadjeno poklapanje na indeksu 332511
+nadjeno poklapanje na indeksu 336671
+nadjeno poklapanje na indeksu 338738
+nadjeno poklapanje na indeksu 341471
+nadjeno poklapanje na indeksu 342648
+nadjeno poklapanje na indeksu 344384
+nadjeno poklapanje na indeksu 348100
+nadjeno poklapanje na indeksu 351773
+nadjeno poklapanje na indeksu 351991
+nadjeno poklapanje na indeksu 353786
+nadjeno poklapanje na indeksu 354482
+nadjeno poklapanje na indeksu 355325
+nadjeno poklapanje na indeksu 355671
+nadjeno poklapanje na indeksu 355945
+nadjeno poklapanje na indeksu 356634
+nadjeno poklapanje na indeksu 356698
+nadjeno poklapanje na indeksu 358106
+nadjeno poklapanje na indeksu 359324
+nadjeno poklapanje na indeksu 360449
+nadjeno poklapanje na indeksu 361151
+nadjeno poklapanje na indeksu 362390
+nadjeno poklapanje na indeksu 363979
+nadjeno poklapanje na indeksu 364191
+nadjeno poklapanje na indeksu 364947
+nadjeno poklapanje na indeksu 365507
+nadjeno poklapanje na indeksu 365609
+nadjeno poklapanje na indeksu 368587
+nadjeno poklapanje na indeksu 372222
+nadjeno poklapanje na indeksu 372521
+nadjeno poklapanje na indeksu 374343
+nadjeno poklapanje na indeksu 375225
+nadjeno poklapanje na indeksu 375534
+nadjeno poklapanje na indeksu 375804
+nadjeno poklapanje na indeksu 376010
+nadjeno poklapanje na indeksu 376550
+nadjeno poklapanje na indeksu 377471
+nadjeno poklapanje na indeksu 377995
+nadjeno poklapanje na indeksu 378763
+nadjeno poklapanje na indeksu 379094
+nadjeno poklapanje na indeksu 379599
+nadjeno poklapanje na indeksu 381072
+nadjeno poklapanje na indeksu 381631
+nadjeno poklapanje na indeksu 382103
+nadjeno poklapanje na indeksu 382991
+nadjeno poklapanje na indeksu 383363
+nadjeno poklapanje na indeksu 383883
+nadjeno poklapanje na indeksu 384961
+nadjeno poklapanje na indeksu 385686
+nadjeno poklapanje na indeksu 386072
+nadjeno poklapanje na indeksu 386201
+nadjeno poklapanje na indeksu 386885
+nadjeno poklapanje na indeksu 387059
+nadjeno poklapanje na indeksu 388591
+nadjeno poklapanje na indeksu 390306
+nadjeno poklapanje na indeksu 392529
+nadjeno poklapanje na indeksu 396353
+nadjeno poklapanje na indeksu 396901
+nadjeno poklapanje na indeksu 397304
+nadjeno poklapanje na indeksu 397411
+nadjeno poklapanje na indeksu 398368
+nadjeno poklapanje na indeksu 398798
+nadjeno poklapanje na indeksu 399131
+nadjeno poklapanje na indeksu 399486
+nadjeno poklapanje na indeksu 400185
+nadjeno poklapanje na indeksu 400414
+nadjeno poklapanje na indeksu 401208
+nadjeno poklapanje na indeksu 401990
+nadjeno poklapanje na indeksu 403216
+nadjeno poklapanje na indeksu 403628
+nadjeno poklapanje na indeksu 405786
+nadjeno poklapanje na indeksu 408192
+nadjeno poklapanje na indeksu 410196
+nadjeno poklapanje na indeksu 410653
+nadjeno poklapanje na indeksu 412010
+nadjeno poklapanje na indeksu 412365
+nadjeno poklapanje na indeksu 412578
+nadjeno poklapanje na indeksu 415267
+nadjeno poklapanje na indeksu 433383
+nadjeno poklapanje na indeksu 433961
+nadjeno poklapanje na indeksu 434168
+nadjeno poklapanje na indeksu 434560
+nadjeno poklapanje na indeksu 436184
+nadjeno poklapanje na indeksu 439443
+nadjeno poklapanje na indeksu 443660
+nadjeno poklapanje na indeksu 444187
+nadjeno poklapanje na indeksu 445484
+nadjeno poklapanje na indeksu 447091
+nadjeno poklapanje na indeksu 450728
+nadjeno poklapanje na indeksu 451524
+nadjeno poklapanje na indeksu 452784
+nadjeno poklapanje na indeksu 453279
+nadjeno poklapanje na indeksu 453540
+nadjeno poklapanje na indeksu 454143
+nadjeno poklapanje na indeksu 454245
+nadjeno poklapanje na indeksu 455526
+nadjeno poklapanje na indeksu 455957
+nadjeno poklapanje na indeksu 456623
+nadjeno poklapanje na indeksu 456866
+nadjeno poklapanje na indeksu 457825
+nadjeno poklapanje na indeksu 458661
+nadjeno poklapanje na indeksu 459246
+nadjeno poklapanje na indeksu 459413
+nadjeno poklapanje na indeksu 460011
+nadjeno poklapanje na indeksu 460037
+nadjeno poklapanje na indeksu 460403
+nadjeno poklapanje na indeksu 460926
+nadjeno poklapanje na indeksu 461049
+nadjeno poklapanje na indeksu 461452
+nadjeno poklapanje na indeksu 464188
+nadjeno poklapanje na indeksu 464430
+nadjeno poklapanje na indeksu 464620
+nadjeno poklapanje na indeksu 464946
+nadjeno poklapanje na indeksu 465114
+nadjeno poklapanje na indeksu 466258
+nadjeno poklapanje na indeksu 466333
+nadjeno poklapanje na indeksu 466797
+nadjeno poklapanje na indeksu 469103
+nadjeno poklapanje na indeksu 476482
+nadjeno poklapanje na indeksu 481230
+nadjeno poklapanje na indeksu 481738
+nadjeno poklapanje na indeksu 482453
+nadjeno poklapanje na indeksu 482660
+nadjeno poklapanje na indeksu 482844
+nadjeno poklapanje na indeksu 483141
+nadjeno poklapanje na indeksu 483313
+nadjeno poklapanje na indeksu 484519
+nadjeno poklapanje na indeksu 484535
+nadjeno poklapanje na indeksu 484726
+nadjeno poklapanje na indeksu 485172
+nadjeno poklapanje na indeksu 485421
+nadjeno poklapanje na indeksu 485624
+nadjeno poklapanje na indeksu 486156
+nadjeno poklapanje na indeksu 486469
+nadjeno poklapanje na indeksu 487032
+nadjeno poklapanje na indeksu 487457
+nadjeno poklapanje na indeksu 487702
+nadjeno poklapanje na indeksu 490164
+nadjeno poklapanje na indeksu 490656
+nadjeno poklapanje na indeksu 490827
+nadjeno poklapanje na indeksu 491893
+nadjeno poklapanje na indeksu 492426
+nadjeno poklapanje na indeksu 492823
+nadjeno poklapanje na indeksu 493899
+nadjeno poklapanje na indeksu 494278
+nadjeno poklapanje na indeksu 494583
+nadjeno poklapanje na indeksu 495320
+nadjeno poklapanje na indeksu 495589
+nadjeno poklapanje na indeksu 495812
+nadjeno poklapanje na indeksu 496021
+nadjeno poklapanje na indeksu 496380
+nadjeno poklapanje na indeksu 497310
+nadjeno poklapanje na indeksu 497394
+nadjeno poklapanje na indeksu 498042
+nadjeno poklapanje na indeksu 498562
+nadjeno poklapanje na indeksu 499962
+nadjeno poklapanje na indeksu 501062
+nadjeno poklapanje na indeksu 502042
+nadjeno poklapanje na indeksu 503075
+nadjeno poklapanje na indeksu 503282
+nadjeno poklapanje na indeksu 503811
+nadjeno poklapanje na indeksu 504216
+nadjeno poklapanje na indeksu 505018
+nadjeno poklapanje na indeksu 505774
+nadjeno poklapanje na indeksu 505952
+nadjeno poklapanje na indeksu 506194
+nadjeno poklapanje na indeksu 506505
+nadjeno poklapanje na indeksu 506761
+nadjeno poklapanje na indeksu 506891
+nadjeno poklapanje na indeksu 507008
+nadjeno poklapanje na indeksu 507405
+nadjeno poklapanje na indeksu 507705
+nadjeno poklapanje na indeksu 507799
+nadjeno poklapanje na indeksu 509129
+nadjeno poklapanje na indeksu 509372
+nadjeno poklapanje na indeksu 509522
+nadjeno poklapanje na indeksu 509697
+nadjeno poklapanje na indeksu 510895
+nadjeno poklapanje na indeksu 511351
+nadjeno poklapanje na indeksu 511425
+nadjeno poklapanje na indeksu 512458
+nadjeno poklapanje na indeksu 512665
+nadjeno poklapanje na indeksu 513194
+nadjeno poklapanje na indeksu 513599
+nadjeno poklapanje na indeksu 514401
+nadjeno poklapanje na indeksu 515157
+nadjeno poklapanje na indeksu 515335
+nadjeno poklapanje na indeksu 515577
+nadjeno poklapanje na indeksu 515888
+nadjeno poklapanje na indeksu 516144
+nadjeno poklapanje na indeksu 516274
+nadjeno poklapanje na indeksu 516391
+nadjeno poklapanje na indeksu 516788
+nadjeno poklapanje na indeksu 517088
+nadjeno poklapanje na indeksu 517182
+nadjeno poklapanje na indeksu 518512
+nadjeno poklapanje na indeksu 518755
+nadjeno poklapanje na indeksu 518905
+nadjeno poklapanje na indeksu 519080
+nadjeno poklapanje na indeksu 520278
+nadjeno poklapanje na indeksu 520734
+nadjeno poklapanje na indeksu 520808
+nadjeno poklapanje na indeksu 521841
+nadjeno poklapanje na indeksu 522048
+nadjeno poklapanje na indeksu 522577
+nadjeno poklapanje na indeksu 522982
+nadjeno poklapanje na indeksu 523784
+nadjeno poklapanje na indeksu 524540
+nadjeno poklapanje na indeksu 524718
+nadjeno poklapanje na indeksu 524960
+nadjeno poklapanje na indeksu 525271
+nadjeno poklapanje na indeksu 525527
+nadjeno poklapanje na indeksu 525657
+nadjeno poklapanje na indeksu 525774
+nadjeno poklapanje na indeksu 526171
+nadjeno poklapanje na indeksu 526471
+nadjeno poklapanje na indeksu 526565
+nadjeno poklapanje na indeksu 527895
+nadjeno poklapanje na indeksu 528138
+nadjeno poklapanje na indeksu 528288
+nadjeno poklapanje na indeksu 528463
+nadjeno poklapanje na indeksu 529661
+nadjeno poklapanje na indeksu 530117
+nadjeno poklapanje na indeksu 530191
+
+nadjeno je 603 poklapanja
+vreme izvrsenja: 5.1895 ms
+
+##### Pokrenut KMP algoritam za fajl ascii100k.txt
+
+Duzinu teksta: 531201, duzinu podstringa: 10
+podstring: determined
+
+nadjeno poklapanje na indeksu 41763
+nadjeno poklapanje na indeksu 288470
+nadjeno poklapanje na indeksu 298263
+nadjeno poklapanje na indeksu 469744
+
+nadjeno je 4 poklapanja
+vreme izvrsenja: 5.0482 ms
+
+##### Pokrenut KMP algoritam za fajl ascii100k.txt
+
+Duzinu teksta: 531201, duzinu podstringa: 20
+podstring: burglary—especially 
+
+nadjeno poklapanje na indeksu 41294
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 4.6852 ms
+
+##### Pokrenut KMP algoritam za fajl ascii100k.txt
+
+Duzinu teksta: 531201, duzinu podstringa: 50
+podstring: This news alters them much for the better. So far 
+
+nadjeno poklapanje na indeksu 40153
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 4.4506 ms
+
+##### Pokrenut KMP algoritam za fajl hex100.txt
+
+Duzinu teksta: 1343, duzinu podstringa: 5
+podstring: CBA25E
+
+nadjeno poklapanje na indeksu 624
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.0222 ms
+
+##### Pokrenut KMP algoritam za fajl hex100.txt
+
+Duzinu teksta: 1343, duzinu podstringa: 10
+podstring: 9B004F6AEA
+
+nadjeno poklapanje na indeksu 436
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.0243 ms
+
+##### Pokrenut KMP algoritam za fajl hex100.txt
+
+Duzinu teksta: 1343, duzinu podstringa: 20
+podstring: 10D2678DF0EDA39F1789
+
+nadjeno poklapanje na indeksu 1055
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.0251 ms
+
+##### Pokrenut KMP algoritam za fajl hex100.txt
+
+Duzinu teksta: 1343, duzinu podstringa: 50
+podstring: 688ACCC3B6A4DF326B 876529E4126 73564C2CAF0 4A2762C
+
+nadjeno poklapanje na indeksu 763
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.0195 ms
+
+##### Pokrenut KMP algoritam za fajl hex1k.txt
+
+Duzinu teksta: 13050, duzinu podstringa: 5
+podstring: 59711
+
+nadjeno poklapanje na indeksu 810
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.1249 ms
+
+##### Pokrenut KMP algoritam za fajl hex1k.txt
+
+Duzinu teksta: 13050, duzinu podstringa: 10
+podstring: 4FAF97CCFE
+
+nadjeno poklapanje na indeksu 1507
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.1232 ms
+
+##### Pokrenut KMP algoritam za fajl hex1k.txt
+
+Duzinu teksta: 13050, duzinu podstringa: 20
+podstring: B83A2492050A9560DAFB
+
+nadjeno poklapanje na indeksu 1597
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.1226 ms
+
+##### Pokrenut KMP algoritam za fajl hex1k.txt
+
+Duzinu teksta: 13050, duzinu podstringa: 50
+podstring: B64E624F2CE004C4770 CD661EBD7E578EBB30 FA26613E3 B
+
+nadjeno poklapanje na indeksu 1069
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.1314 ms
+
+##### Pokrenut KMP algoritam za fajl hex10k.txt
+
+Duzinu teksta: 129748, duzinu podstringa: 5
+podstring: 4F047
+
+nadjeno poklapanje na indeksu 14040
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 1.2065 ms
+
+##### Pokrenut KMP algoritam za fajl hex10k.txt
+
+Duzinu teksta: 129748, duzinu podstringa: 10
+podstring: E3D7F3EBF8
+
+nadjeno poklapanje na indeksu 13906
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 1.1889 ms
+
+##### Pokrenut KMP algoritam za fajl hex10k.txt
+
+Duzinu teksta: 129748, duzinu podstringa: 20
+podstring: B79080C1E6E5D84AB63F
+
+nadjeno poklapanje na indeksu 13469
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 1.2214 ms
+
+##### Pokrenut KMP algoritam za fajl hex10k.txt
+
+Duzinu teksta: 129748, duzinu podstringa: 50
+podstring: 2C508B55D70A9F4162 1EA01D7 86C5732CA427D296C42 B4A
+
+nadjeno poklapanje na indeksu 3767
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 1.1945 ms
+
+##### Pokrenut KMP algoritam za fajl hex100k.txt
+
+Duzinu teksta: 1300569, duzinu podstringa: 5
+podstring: C3C3F
+
+nadjeno poklapanje na indeksu 1219
+nadjeno poklapanje na indeksu 88665
+nadjeno poklapanje na indeksu 233155
+nadjeno poklapanje na indeksu 716594
+nadjeno poklapanje na indeksu 1069370
+
+nadjeno je 5 poklapanja
+vreme izvrsenja: 12.0278 ms
+
+##### Pokrenut KMP algoritam za fajl hex100k.txt
+
+Duzinu teksta: 1300569, duzinu podstringa: 10
+podstring: 66943CB78E
+
+nadjeno poklapanje na indeksu 586123
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 12.0715 ms
+
+##### Pokrenut KMP algoritam za fajl hex100k.txt
+
+Duzinu teksta: 1300569, duzinu podstringa: 20
+podstring: A3FDDF4B86A09D09E54F
+
+nadjeno poklapanje na indeksu 4372
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 13.5843 ms
+
+##### Pokrenut KMP algoritam za fajl hex100k.txt
+
+Duzinu teksta: 1300569, duzinu podstringa: 50
+podstring: F72C8096935793DDB7 127038DC 17F933B4721A2F78 83436
+
+nadjeno poklapanje na indeksu 611248
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 11.9947 ms
+

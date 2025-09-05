@@ -1,0 +1,824 @@
+##### Pokretut Levenstein algoritam za fajl ascii100.txt
+
+Duzina teksta: 523, duzina podstringa: 5
+podstring: round
+
+nadjeno poklapanje do 20% reci: ground i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: round i prosledjenog podstringa
+
+nadjeno je 2 poklapanja
+vreme izvrsenja: 0.5795 ms
+
+##### Pokretut Levenstein algoritam za fajl ascii100.txt
+
+Duzina teksta: 523, duzina podstringa: 10
+podstring: tubeshaped
+
+nadjeno poklapanje do 20% reci: tubeshaped i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.1417 ms
+
+##### Pokretut Levenstein algoritam za fajl ascii100.txt
+
+Duzina teksta: 523, duzina podstringa: 15
+podstring: panelled-walls,
+
+nadjeno poklapanje do 20% reci: panelled-walls, i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.188 ms
+
+##### Pokretut Levenstein algoritam za fajl ascii1k.txt
+
+Duzina teksta: 5587, duzina podstringa: 5
+podstring: lived
+
+nadjeno poklapanje do 20% reci: lived i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: lived i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: lived i prosledjenog podstringa
+
+nadjeno je 3 poklapanja
+vreme izvrsenja: 0.835 ms
+
+##### Pokretut Levenstein algoritam za fajl ascii1k.txt
+
+Duzina teksta: 5587, duzina podstringa: 10
+podstring: hobbitlike
+
+nadjeno poklapanje do 20% reci: hobbitlike i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 1.419 ms
+
+##### Pokretut Levenstein algoritam za fajl ascii1k.txt
+
+Duzina teksta: 5587, duzina podstringa: 20
+podstring: unsuspecting-Bilbo's
+
+nadjeno poklapanje do 20% reci: unsuspecting-Bilbo i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 2.5501 ms
+
+##### Pokretut Levenstein algoritam za fajl ascii10k.txt
+
+Duzina teksta: 53639, duzina podstringa: 6
+podstring: Thorin
+
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin; i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Thorin i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: “Thorin i prosledjenog podstringa
+
+nadjeno je 34 poklapanja
+vreme izvrsenja: 9.1851 ms
+
+##### Pokretut Levenstein algoritam za fajl ascii10k.txt
+
+Duzina teksta: 53639, duzina podstringa: 10
+podstring: determined
+
+nadjeno poklapanje do 20% reci: determined i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 18.319 ms
+
+##### Pokretut Levenstein algoritam za fajl ascii10k.txt
+
+Duzina teksta: 53639, duzina podstringa: 20
+podstring: burglary—especially,
+
+nadjeno poklapanje do 20% reci: burglary—especially i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 23.2737 ms
+
+##### Pokretut Levenstein algoritam za fajl ascii100k.txt
+
+Duzina teksta: 531201, duzina podstringa: 5
+podstring: Bilbo
+
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: “Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: “Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo; i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo; i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo) i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo? i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo; i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: “Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo; i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo; i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: “Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo, i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo. i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: Bilbo i prosledjenog podstringa
+
+nadjeno je 545 poklapanja
+vreme izvrsenja: 109.4453 ms
+
+##### Pokretut Levenstein algoritam za fajl ascii100k.txt
+
+Duzina teksta: 531201, duzina podstringa: 10
+podstring: determined
+
+nadjeno poklapanje do 20% reci: determined i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: determined i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: determined i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: determined i prosledjenog podstringa
+
+nadjeno je 4 poklapanja
+vreme izvrsenja: 215.3209 ms
+
+##### Pokretut Levenstein algoritam za fajl ascii100k.txt
+
+Duzina teksta: 531201, duzina podstringa: 20
+podstring: burglary—especially,
+
+nadjeno poklapanje do 20% reci: burglary—especially i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 377.7438 ms
+
+##### Pokretut Levenstein algoritam za fajl hex100.txt
+
+Duzina teksta: 1343, duzina podstringa: 5
+podstring: CBA25
+
+nadjeno poklapanje do 20% reci: CBA25E i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.2162 ms
+
+##### Pokretut Levenstein algoritam za fajl hex100.txt
+
+Duzina teksta: 1343, duzina podstringa: 10
+podstring: 9B004F6AEA
+
+nadjeno poklapanje do 20% reci: 9B004F6AEA i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.3375 ms
+
+##### Pokretut Levenstein algoritam za fajl hex100.txt
+
+Duzina teksta: 1343, duzina podstringa: 20
+podstring: 10D2678DF0EDA39F1789
+
+nadjeno poklapanje do 20% reci: 10D2678DF0EDA39F1789 i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 0.7171 ms
+
+##### Pokretut Levenstein algoritam za fajl hex1k.txt
+
+Duzina teksta: 13050, duzina podstringa: 5
+podstring: 59711
+
+nadjeno poklapanje do 20% reci: 59711 i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 1.8987 ms
+
+##### Pokretut Levenstein algoritam za fajl hex1k.txt
+
+Duzina teksta: 13050, duzina podstringa: 10
+podstring: 4FAF97CCFE
+
+nadjeno poklapanje do 20% reci: 4FAF97CCFE i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 3.2686 ms
+
+##### Pokretut Levenstein algoritam za fajl hex1k.txt
+
+Duzina teksta: 13050, duzina podstringa: 20
+podstring: B83A2492050A9560DAFB
+
+nadjeno poklapanje do 20% reci: B83A2492050A9560DAFB i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 6.6707 ms
+
+##### Pokretut Levenstein algoritam za fajl hex10k.txt
+
+Duzina teksta: 129748, duzina podstringa: 5
+podstring: 4F047
+
+nadjeno poklapanje do 20% reci: 4F047 i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 17.935 ms
+
+##### Pokretut Levenstein algoritam za fajl hex10k.txt
+
+Duzina teksta: 129748, duzina podstringa: 10
+podstring: E3D7F3EBF8
+
+nadjeno poklapanje do 20% reci: E3D7F3EBF8AD i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 35.6188 ms
+
+##### Pokretut Levenstein algoritam za fajl hex10k.txt
+
+Duzina teksta: 129748, duzina podstringa: 20
+podstring: B79080C1E6E5D84AB63F
+
+nadjeno poklapanje do 20% reci: B79080C1E6E5D84AB63F i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 71.4555 ms
+
+##### Pokretut Levenstein algoritam za fajl hex100k.txt
+
+Duzina teksta: 1300569, duzina podstringa: 5
+podstring: C3C3F
+
+nadjeno poklapanje do 20% reci: C3C3F i prosledjenog podstringa
+nadjeno poklapanje do 20% reci: 23C3F i prosledjenog podstringa
+
+nadjeno je 2 poklapanja
+vreme izvrsenja: 268.0951 ms
+
+##### Pokretut Levenstein algoritam za fajl hex100k.txt
+
+Duzina teksta: 1300569, duzina podstringa: 10
+podstring: 66943CB78E
+
+nadjeno poklapanje do 20% reci: 66943CB78E7 i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 397.6122 ms
+
+##### Pokretut Levenstein algoritam za fajl hex100k.txt
+
+Duzina teksta: 1300569, duzina podstringa: 20
+podstring: A3FDDF4B86A09D09E54F
+
+nadjeno poklapanje do 20% reci: A3FDDF4B86A09D09E54F i prosledjenog podstringa
+
+nadjeno je 1 poklapanja
+vreme izvrsenja: 700.0229 ms
+

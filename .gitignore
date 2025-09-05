@@ -1,0 +1,67 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.sln.docstates
+
+# Build results
+# Ignoriši build fajlove osim ako nisu .txt u C++ projektima
+*.obj
+*.o
+*.pdb
+*.idb
+*.ipdb
+*.iobj
+*.ilk
+*.meta
+*.pch
+*.res
+*.exe
+*.dll
+*.lib
+*.app
+*.out
+*.log
+
+# Ne ignoriši Debug i Release foldere
+!**/Debug/
+!**/Release/
+
+# Ignoriši specifične Visual Studio log fajlove
+*.tlog/
+*.lastbuildstate
+
+# Paket menadžeri
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# C++ specifično
+*.iobj
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+*.cache
+*.ilk
+*.idb
+*.log
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+
+# Ne ignoriši .txt fajlove u C++ projektima
+!**/*.txt
+
+# OS fajlovi
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.DS_Store
