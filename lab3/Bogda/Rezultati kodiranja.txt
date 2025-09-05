@@ -1,0 +1,101 @@
+100 * (1 – (величина компресованог фајла укључујући и речник) / (величина полазног фајла) )
+
+fajlovi su pravljeni za broj od: 100, 1000, 10 000, 100 000, 1 000 000, 10 000 000, karaktera koju su generisani random i koji su "smisleni" preko Lorem Lpsum sajta
+
+po navedenoj formuli rezultati su sledeći:
+
+### fajl od 100 reči:
+
+*** Lorem Lpsum
+- original: 100 B
+- kompresovan: 56 B
+- rečnik: 268 B
+- stepen kompresije: 44% (bez recnika jer je onda velicina kompresovanih fajlova veca :))
+
+***Random
+-original: 100 B
+-kompresovan: 72 B
+-rečnik: 726 B
+- stepen kompresije: 28% (bez recnika jer je onda velicina kompresovanih fajlova veca :))
+
+-----------------------------------------------------------------------------------
+
+### fajl od 1000 reči:
+
+*** Lorem Lpsum
+- original: 1004 B
+- kompresovan: 583 B
+- rečnik: 543 B
+- stepen kompresije: 42% (bez recnika jer je onda velicina kompresovanih fajlova veca :))
+
+***Random
+-original: 1000 B
+-kompresovan: 808 B
+-rečnik: 1.14 KB
+- stepen kompresije: 19% (bez recnika jer je onda velicina kompresovanih fajlova veca :))
+
+-----------------------------------------------------------------------------------
+
+### fajl od 10 000 reči:
+
+*** Lorem Lpsum
+- original: 9.83 KB
+- kompresovan: 5.74 KB
+- rečnik: 685 B
+- stepen kompresije: 34% (sa recnikom)
+
+***Random
+-original: 9.76 KB
+-kompresovan: 8.05 KB
+-rečnik: 1.24 KB
+- stepen kompresije: 4.8% (sa recnikom)
+
+-----------------------------------------------------------------------------------
+
+### fajl od 100 000 reči:
+
+*** Lorem Lpsum
+- original: 98.3 KB
+- kompresovan: 57.4 KB
+- rečnik: 728 B
+- stepen kompresije: 40% (sa recnikom) 
+
+***Random
+-original: 97.6 KB
+-kompresovan: 80.5 KB
+-rečnik: 1.31 KB
+- stepen kompresije: 16% (sa recnikom)
+
+-----------------------------------------------------------------------------------
+
+### fajl od 1 000 000 reči:
+
+*** Lorem Lpsum
+- original: 983 KB
+- kompresovan: 574 KB
+- rečnik: 771 B
+- stepen kompresije: 41% (sa recnikom) 
+
+***Random
+-original: 976 KB
+-kompresovan: 805 KB
+-rečnik: 1.39 KB
+- stepen kompresije: 17% (sa recnikom)
+
+-----------------------------------------------------------------------------------
+
+### fajl od 10 000 000 reči:
+
+*** Lorem Lpsum
+- original: 9.6 MB
+- kompresovan: 5.6 MB
+- rečnik: 814 B
+- stepen kompresije: 41% (sa recnikom)
+
+***Random
+-original: 9.53 MB
+-kompresovan: 7.86 MB
+-rečnik: 1.47 KB
+- stepen kompresije: 17% (sa recnikom)
+
+

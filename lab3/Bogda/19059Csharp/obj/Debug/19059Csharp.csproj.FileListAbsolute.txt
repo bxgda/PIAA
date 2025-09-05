@@ -1,0 +1,7 @@
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\obj\Debug\19059Csharp.csproj.AssemblyReference.cache
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\obj\Debug\19059Csharp.csproj.CoreCompileInputs.cache
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\bin\Debug\19059Csharp.exe.config
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\bin\Debug\19059Csharp.exe
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\bin\Debug\19059Csharp.pdb
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\obj\Debug\19059Csharp.exe
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\obj\Debug\19059Csharp.pdb

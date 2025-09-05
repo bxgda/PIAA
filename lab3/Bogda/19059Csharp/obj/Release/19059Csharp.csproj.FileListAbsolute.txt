@@ -1,0 +1,14 @@
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\bin\Release\19059Csharp.exe.config
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\bin\Release\19059Csharp.exe
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\bin\Release\19059Csharp.pdb
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\obj\Release\19059Csharp.csproj.AssemblyReference.cache
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\obj\Release\19059Csharp.csproj.CoreCompileInputs.cache
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\obj\Release\19059Csharp.exe
+F:\Johnny\1FAKS\3.godina\5.semestar\projektovanje i analiza algoritama\lab3\19059Csharp\19059Csharp\obj\Release\19059Csharp.pdb
+D:\faks\5. semestar\PIA\lab3\19059Csharp\19059Csharp\bin\Release\19059Csharp.exe.config
+D:\faks\5. semestar\PIA\lab3\19059Csharp\19059Csharp\bin\Release\19059Csharp.exe
+D:\faks\5. semestar\PIA\lab3\19059Csharp\19059Csharp\bin\Release\19059Csharp.pdb
+D:\faks\5. semestar\PIA\lab3\19059Csharp\19059Csharp\obj\Release\19059Csharp.csproj.AssemblyReference.cache
+D:\faks\5. semestar\PIA\lab3\19059Csharp\19059Csharp\obj\Release\19059Csharp.csproj.CoreCompileInputs.cache
+D:\faks\5. semestar\PIA\lab3\19059Csharp\19059Csharp\obj\Release\19059Csharp.exe
+D:\faks\5. semestar\PIA\lab3\19059Csharp\19059Csharp\obj\Release\19059Csharp.pdb
