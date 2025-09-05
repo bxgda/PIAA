@@ -1,6 +1,6 @@
 # Projektovanje i analiza algoritama
 - Tekstovi zadataka i rešenja 5 lab vežbi (nismo imali 6. zbog blokada). Sva rešenja oba studenta su ocenjena sa <ins>maksimalnim</ins> brojem poena
-- Brojevi indeksa su Bogda - 19095 i Gospaleks - 19095 (info zbog tekstova zadataka)
+- Brojevi indeksa su Bogda - 19059 i Gospaleks - 19095 (info zbog tekstova zadataka)
 
 ##
 
