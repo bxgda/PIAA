@@ -1,0 +1,1 @@
+ovde treba da stoji izlaz programa ali toga nema jer je bio previse veliki fajl da bih ga push-ovao na github
