@@ -10,7 +10,7 @@ namespace _19059Csharp
         {
             if (pocetak == kraj)                                    // prvi uslov izlaska iz rekurzije (kada se prosledni niz sa 1 elementom)
             {
-                simboli[pocetak].Kod += "0";
+                // simboli[pocetak].Kod += "0";                    // ne znam zasto sam ovo dodao, realno ne treba, i po algoritmu stvarnom ovo ne treba
                 return;
             }
 
