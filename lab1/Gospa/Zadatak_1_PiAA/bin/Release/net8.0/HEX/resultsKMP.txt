@@ -1,0 +1,84 @@
+Pretraga stringa: "100E7" (5 karaktera)
+-----------------------------------------------------------
+Pretraga fajla: 100.txt
+  Pronalazak na poziciji 129
+Ukupno pojavljivanja: 1
+
+
+Pretraga fajla: 1000.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 10000.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 100000.txt
+Ukupno pojavljivanja: 0
+
+
+
+
+Pretraga stringa: "F76BA5AAB7" (10 karaktera)
+-----------------------------------------------------------
+Pretraga fajla: 100.txt
+  Pronalazak na poziciji 511
+Ukupno pojavljivanja: 1
+
+
+Pretraga fajla: 1000.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 10000.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 100000.txt
+Ukupno pojavljivanja: 0
+
+
+
+
+Pretraga stringa: "04806496FFDACD2A2 AB" (20 karaktera)
+-----------------------------------------------------------
+Pretraga fajla: 100.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 1000.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 10000.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 100000.txt
+  Pronalazak na poziciji 470296
+Ukupno pojavljivanja: 1
+
+
+
+
+Pretraga stringa: "5DD2EE9A1FAC8103029 0220B 7997025B E2F416B0C7BD8 0" (50 karaktera)
+-----------------------------------------------------------
+Pretraga fajla: 100.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 1000.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 10000.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 100000.txt
+  Pronalazak na poziciji 477140
+Ukupno pojavljivanja: 1
+
+
+
+

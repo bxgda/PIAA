@@ -1,0 +1,263 @@
+Pretraga fajla: 100.txt
+-----------------------------------------------------------
+Za rec: "lover" (5 karaktera)
+  Rec: "love" - Udaljenost: 1
+  Rec: "lover" - Udaljenost: 0
+
+Za rec: "disturbing" (10 karaktera)
+
+Za rec: "moustached-evidently" (20 karaktera)
+
+Pretraga fajla: 1000.txt
+-----------------------------------------------------------
+Za rec: "lover" (5 karaktera)
+  Rec: "love" - Udaljenost: 1
+  Rec: "lover" - Udaljenost: 0
+  Rec: "over" - Udaljenost: 1
+
+Za rec: "disturbing" (10 karaktera)
+  Rec: "disturbing" - Udaljenost: 0
+
+Za rec: "moustached-evidently" (20 karaktera)
+
+Pretraga fajla: 10000.txt
+-----------------------------------------------------------
+Za rec: "lover" (5 karaktera)
+  Rec: "love" - Udaljenost: 1
+  Rec: "lover" - Udaljenost: 0
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "lower" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "loves" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "loved" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+
+Za rec: "disturbing" (10 karaktera)
+  Rec: "disturbing" - Udaljenost: 0
+
+Za rec: "moustached-evidently" (20 karaktera)
+  Rec: "moustached—evidently" - Udaljenost: 1
+
+Pretraga fajla: 100000.txt
+-----------------------------------------------------------
+Za rec: "lover" (5 karaktera)
+  Rec: "love" - Udaljenost: 1
+  Rec: "lover" - Udaljenost: 0
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "lower" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "loves" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "loved" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "hover" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "lower" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "lovers" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "loved" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "cover" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "lower" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "cover" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "“over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "cover" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "lower" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "lower" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "love," - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "lover;" - Udaljenost: 1
+  Rec: "lover" - Udaljenost: 0
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "love." - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "loves" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "lower" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "cover" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "lover" - Udaljenost: 0
+  Rec: "loved" - Udaljenost: 1
+  Rec: "love" - Udaljenost: 1
+  Rec: "lover" - Udaljenost: 0
+  Rec: "lover," - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "loved" - Udaljenost: 1
+  Rec: "lover" - Udaljenost: 0
+  Rec: "love" - Udaljenost: 1
+  Rec: "loves" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+  Rec: "cover" - Udaljenost: 1
+  Rec: "over" - Udaljenost: 1
+
+Za rec: "disturbing" (10 karaktera)
+  Rec: "disturbing" - Udaljenost: 0
+
+Za rec: "moustached-evidently" (20 karaktera)
+  Rec: "moustached—evidently" - Udaljenost: 1
+

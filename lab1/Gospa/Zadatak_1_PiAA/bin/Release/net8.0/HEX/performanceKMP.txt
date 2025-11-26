@@ -1,0 +1,32 @@
+Pretraga stringa: "100E7" (5 karaktera)
+-------------------------------------------------------------------
+  Fajl: 100.txt    (Ukupno pojavljivanja: 1)   - trajanje: 0.0391ms
+  Fajl: 1000.txt   (Ukupno pojavljivanja: 0)   - trajanje: 0.0425ms
+  Fajl: 10000.txt  (Ukupno pojavljivanja: 0)   - trajanje: 0.3471ms
+  Fajl: 100000.txt (Ukupno pojavljivanja: 0)   - trajanje: 2.5842ms
+
+
+Pretraga stringa: "F76BA5AAB7" (10 karaktera)
+-------------------------------------------------------------------
+  Fajl: 100.txt    (Ukupno pojavljivanja: 1)   - trajanje: 0.0142ms
+  Fajl: 1000.txt   (Ukupno pojavljivanja: 0)   - trajanje: 0.0482ms
+  Fajl: 10000.txt  (Ukupno pojavljivanja: 0)   - trajanje: 0.762ms
+  Fajl: 100000.txt (Ukupno pojavljivanja: 0)   - trajanje: 2.5079ms
+
+
+Pretraga stringa: "04806496FFDACD2A2 AB" (20 karaktera)
+-------------------------------------------------------------------
+  Fajl: 100.txt    (Ukupno pojavljivanja: 0)   - trajanje: 0.0278ms
+  Fajl: 1000.txt   (Ukupno pojavljivanja: 0)   - trajanje: 0.1023ms
+  Fajl: 10000.txt  (Ukupno pojavljivanja: 0)   - trajanje: 0.3028ms
+  Fajl: 100000.txt (Ukupno pojavljivanja: 1)   - trajanje: 2.4397ms
+
+
+Pretraga stringa: "5DD2EE9A1FAC8103029 0220B 7997025B E2F416B0C7BD8 0" (50 karaktera)
+-------------------------------------------------------------------
+  Fajl: 100.txt    (Ukupno pojavljivanja: 0)   - trajanje: 0.0252ms
+  Fajl: 1000.txt   (Ukupno pojavljivanja: 0)   - trajanje: 0.0813ms
+  Fajl: 10000.txt  (Ukupno pojavljivanja: 0)   - trajanje: 0.2548ms
+  Fajl: 100000.txt (Ukupno pojavljivanja: 1)   - trajanje: 2.6203ms
+
+

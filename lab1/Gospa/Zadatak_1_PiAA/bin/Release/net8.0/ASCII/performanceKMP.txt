@@ -1,0 +1,32 @@
+Pretraga stringa: "heard" (5 karaktera)
+-------------------------------------------------------------------
+  Fajl: 100.txt    (Ukupno pojavljivanja: 1)   - trajanje: 0.3455ms
+  Fajl: 1000.txt   (Ukupno pojavljivanja: 2)   - trajanje: 0.0655ms
+  Fajl: 10000.txt  (Ukupno pojavljivanja: 12)  - trajanje: 1.9108ms
+  Fajl: 100000.txt (Ukupno pojavljivanja: 109) - trajanje: 1.5131ms
+
+
+Pretraga stringa: "appearance" (10 karaktera)
+-------------------------------------------------------------------
+  Fajl: 100.txt    (Ukupno pojavljivanja: 0)   - trajanje: 0.015ms
+  Fajl: 1000.txt   (Ukupno pojavljivanja: 0)   - trajanje: 0.0365ms
+  Fajl: 10000.txt  (Ukupno pojavljivanja: 4)   - trajanje: 0.1543ms
+  Fajl: 100000.txt (Ukupno pojavljivanja: 26)  - trajanje: 1.8591ms
+
+
+Pretraga stringa: "extraordinary powers" (20 karaktera)
+-------------------------------------------------------------------
+  Fajl: 100.txt    (Ukupno pojavljivanja: 0)   - trajanje: 0.013ms
+  Fajl: 1000.txt   (Ukupno pojavljivanja: 2)   - trajanje: 0.04ms
+  Fajl: 10000.txt  (Ukupno pojavljivanja: 2)   - trajanje: 0.1908ms
+  Fajl: 100000.txt (Ukupno pojavljivanja: 2)   - trajanje: 1.4819ms
+
+
+Pretraga stringa: "Then perhaps you will kindly explain how it is tha" (50 karaktera)
+-------------------------------------------------------------------
+  Fajl: 100.txt    (Ukupno pojavljivanja: 0)   - trajanje: 0.0087ms
+  Fajl: 1000.txt   (Ukupno pojavljivanja: 0)   - trajanje: 0.042ms
+  Fajl: 10000.txt  (Ukupno pojavljivanja: 0)   - trajanje: 0.104ms
+  Fajl: 100000.txt (Ukupno pojavljivanja: 1)   - trajanje: 1.3096ms
+
+

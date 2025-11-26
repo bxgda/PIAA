@@ -1,0 +1,34 @@
+Pretraga fajla: 100.txt
+-----------------------------------------------------------
+Za rec: "B2B6F" (5 karaktera)
+
+Za rec: "64347F4A5A" (10 karaktera)
+
+Za rec: "065B827AF60B85B964AB" (20 karaktera)
+
+Pretraga fajla: 1000.txt
+-----------------------------------------------------------
+Za rec: "B2B6F" (5 karaktera)
+
+Za rec: "64347F4A5A" (10 karaktera)
+
+Za rec: "065B827AF60B85B964AB" (20 karaktera)
+
+Pretraga fajla: 10000.txt
+-----------------------------------------------------------
+Za rec: "B2B6F" (5 karaktera)
+
+Za rec: "64347F4A5A" (10 karaktera)
+
+Za rec: "065B827AF60B85B964AB" (20 karaktera)
+
+Pretraga fajla: 100000.txt
+-----------------------------------------------------------
+Za rec: "B2B6F" (5 karaktera)
+  Rec: "B2B61" - Udaljenost: 1
+  Rec: "B2B6" - Udaljenost: 1
+
+Za rec: "64347F4A5A" (10 karaktera)
+
+Za rec: "065B827AF60B85B964AB" (20 karaktera)
+

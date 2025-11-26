@@ -1,0 +1,14 @@
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\bin\Release\net8.0\Zadatak_1_PiAA.exe
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\bin\Release\net8.0\Zadatak_1_PiAA.deps.json
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\bin\Release\net8.0\Zadatak_1_PiAA.runtimeconfig.json
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\bin\Release\net8.0\Zadatak_1_PiAA.dll
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\bin\Release\net8.0\Zadatak_1_PiAA.pdb
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\obj\Release\net8.0\Zadatak_1_PiAA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\obj\Release\net8.0\Zadatak_1_PiAA.AssemblyInfoInputs.cache
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\obj\Release\net8.0\Zadatak_1_PiAA.AssemblyInfo.cs
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\obj\Release\net8.0\Zadatak_1_PiAA.csproj.CoreCompileInputs.cache
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\obj\Release\net8.0\Zadatak_1_PiAA.dll
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\obj\Release\net8.0\refint\Zadatak_1_PiAA.dll
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\obj\Release\net8.0\Zadatak_1_PiAA.pdb
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\obj\Release\net8.0\Zadatak_1_PiAA.genruntimeconfig.cache
+D:\Faks\RI\5_Semestar\PiAA\Projekti\1_Zadatak\Zadatak_1_PiAA\Zadatak_1_PiAA\obj\Release\net8.0\ref\Zadatak_1_PiAA.dll

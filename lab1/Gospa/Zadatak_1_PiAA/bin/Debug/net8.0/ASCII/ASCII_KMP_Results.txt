@@ -1,0 +1,241 @@
+Pretraga stringa: "heard" (5 karaktera)
+-----------------------------------------------------------
+Pretraga fajla: 100.txt
+  Pronalazak na poziciji 60
+Ukupno pojavljivanja: 1
+
+
+Pretraga fajla: 1000.txt
+  Pronalazak na poziciji 60
+  Pronalazak na poziciji 1988
+Ukupno pojavljivanja: 2
+
+
+Pretraga fajla: 10000.txt
+  Pronalazak na poziciji 60
+  Pronalazak na poziciji 1988
+  Pronalazak na poziciji 10165
+  Pronalazak na poziciji 16846
+  Pronalazak na poziciji 24059
+  Pronalazak na poziciji 27920
+  Pronalazak na poziciji 40151
+  Pronalazak na poziciji 45960
+  Pronalazak na poziciji 48259
+  Pronalazak na poziciji 48511
+  Pronalazak na poziciji 48841
+  Pronalazak na poziciji 49000
+Ukupno pojavljivanja: 12
+
+
+Pretraga fajla: 100000.txt
+  Pronalazak na poziciji 60
+  Pronalazak na poziciji 1988
+  Pronalazak na poziciji 10165
+  Pronalazak na poziciji 16846
+  Pronalazak na poziciji 24059
+  Pronalazak na poziciji 27920
+  Pronalazak na poziciji 40151
+  Pronalazak na poziciji 45960
+  Pronalazak na poziciji 48259
+  Pronalazak na poziciji 48511
+  Pronalazak na poziciji 48841
+  Pronalazak na poziciji 49000
+  Pronalazak na poziciji 56378
+  Pronalazak na poziciji 57876
+  Pronalazak na poziciji 67846
+  Pronalazak na poziciji 68466
+  Pronalazak na poziciji 68851
+  Pronalazak na poziciji 78293
+  Pronalazak na poziciji 78311
+  Pronalazak na poziciji 79320
+  Pronalazak na poziciji 82214
+  Pronalazak na poziciji 89201
+  Pronalazak na poziciji 92140
+  Pronalazak na poziciji 100091
+  Pronalazak na poziciji 101515
+  Pronalazak na poziciji 101797
+  Pronalazak na poziciji 110809
+  Pronalazak na poziciji 122067
+  Pronalazak na poziciji 134842
+  Pronalazak na poziciji 138028
+  Pronalazak na poziciji 138613
+  Pronalazak na poziciji 145399
+  Pronalazak na poziciji 145966
+  Pronalazak na poziciji 146471
+  Pronalazak na poziciji 152006
+  Pronalazak na poziciji 154671
+  Pronalazak na poziciji 155578
+  Pronalazak na poziciji 161480
+  Pronalazak na poziciji 188829
+  Pronalazak na poziciji 188857
+  Pronalazak na poziciji 198652
+  Pronalazak na poziciji 213535
+  Pronalazak na poziciji 217514
+  Pronalazak na poziciji 224457
+  Pronalazak na poziciji 238916
+  Pronalazak na poziciji 247573
+  Pronalazak na poziciji 247670
+  Pronalazak na poziciji 248063
+  Pronalazak na poziciji 261486
+  Pronalazak na poziciji 266326
+  Pronalazak na poziciji 269795
+  Pronalazak na poziciji 286380
+  Pronalazak na poziciji 306511
+  Pronalazak na poziciji 312611
+  Pronalazak na poziciji 319141
+  Pronalazak na poziciji 319174
+  Pronalazak na poziciji 320674
+  Pronalazak na poziciji 326985
+  Pronalazak na poziciji 327233
+  Pronalazak na poziciji 327443
+  Pronalazak na poziciji 327774
+  Pronalazak na poziciji 330356
+  Pronalazak na poziciji 333123
+  Pronalazak na poziciji 336355
+  Pronalazak na poziciji 338157
+  Pronalazak na poziciji 338373
+  Pronalazak na poziciji 347474
+  Pronalazak na poziciji 353481
+  Pronalazak na poziciji 358193
+  Pronalazak na poziciji 359678
+  Pronalazak na poziciji 359987
+  Pronalazak na poziciji 360205
+  Pronalazak na poziciji 366110
+  Pronalazak na poziciji 366339
+  Pronalazak na poziciji 373726
+  Pronalazak na poziciji 381964
+  Pronalazak na poziciji 387433
+  Pronalazak na poziciji 391777
+  Pronalazak na poziciji 395812
+  Pronalazak na poziciji 396721
+  Pronalazak na poziciji 399174
+  Pronalazak na poziciji 400073
+  Pronalazak na poziciji 402647
+  Pronalazak na poziciji 403700
+  Pronalazak na poziciji 409263
+  Pronalazak na poziciji 431479
+  Pronalazak na poziciji 434620
+  Pronalazak na poziciji 434644
+  Pronalazak na poziciji 435539
+  Pronalazak na poziciji 436236
+  Pronalazak na poziciji 442444
+  Pronalazak na poziciji 445353
+  Pronalazak na poziciji 445448
+  Pronalazak na poziciji 448115
+  Pronalazak na poziciji 449778
+  Pronalazak na poziciji 452730
+  Pronalazak na poziciji 462287
+  Pronalazak na poziciji 463335
+  Pronalazak na poziciji 483457
+  Pronalazak na poziciji 483548
+  Pronalazak na poziciji 483918
+  Pronalazak na poziciji 486970
+  Pronalazak na poziciji 490801
+  Pronalazak na poziciji 491563
+  Pronalazak na poziciji 493358
+  Pronalazak na poziciji 496936
+  Pronalazak na poziciji 503257
+  Pronalazak na poziciji 505470
+  Pronalazak na poziciji 522809
+Ukupno pojavljivanja: 109
+
+
+
+
+Pretraga stringa: "appearance" (10 karaktera)
+-----------------------------------------------------------
+Pretraga fajla: 100.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 1000.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 10000.txt
+  Pronalazak na poziciji 10986
+  Pronalazak na poziciji 27298
+  Pronalazak na poziciji 49293
+  Pronalazak na poziciji 49672
+Ukupno pojavljivanja: 4
+
+
+Pretraga fajla: 100000.txt
+  Pronalazak na poziciji 10986
+  Pronalazak na poziciji 27298
+  Pronalazak na poziciji 49293
+  Pronalazak na poziciji 49672
+  Pronalazak na poziciji 88379
+  Pronalazak na poziciji 115224
+  Pronalazak na poziciji 175519
+  Pronalazak na poziciji 175812
+  Pronalazak na poziciji 215305
+  Pronalazak na poziciji 242497
+  Pronalazak na poziciji 243801
+  Pronalazak na poziciji 248752
+  Pronalazak na poziciji 261373
+  Pronalazak na poziciji 275957
+  Pronalazak na poziciji 363865
+  Pronalazak na poziciji 419198
+  Pronalazak na poziciji 422563
+  Pronalazak na poziciji 423756
+  Pronalazak na poziciji 425427
+  Pronalazak na poziciji 429372
+  Pronalazak na poziciji 435148
+  Pronalazak na poziciji 437278
+  Pronalazak na poziciji 437997
+  Pronalazak na poziciji 477956
+  Pronalazak na poziciji 532128
+  Pronalazak na poziciji 533102
+Ukupno pojavljivanja: 26
+
+
+
+
+Pretraga stringa: "extraordinary powers" (20 karaktera)
+-----------------------------------------------------------
+Pretraga fajla: 100.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 1000.txt
+  Pronalazak na poziciji 1809
+  Pronalazak na poziciji 2867
+Ukupno pojavljivanja: 2
+
+
+Pretraga fajla: 10000.txt
+  Pronalazak na poziciji 1809
+  Pronalazak na poziciji 2867
+Ukupno pojavljivanja: 2
+
+
+Pretraga fajla: 100000.txt
+  Pronalazak na poziciji 1809
+  Pronalazak na poziciji 2867
+Ukupno pojavljivanja: 2
+
+
+
+
+Pretraga stringa: "Then perhaps you will kindly explain how it is tha" (50 karaktera)
+-----------------------------------------------------------
+Pretraga fajla: 100.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 1000.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 10000.txt
+Ukupno pojavljivanja: 0
+
+
+Pretraga fajla: 100000.txt
+  Pronalazak na poziciji 436385
+Ukupno pojavljivanja: 1
+
+
+
+
